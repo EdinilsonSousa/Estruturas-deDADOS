@@ -20,7 +20,7 @@
   ```
   
 # |Linked list|
-## É uma sequencia de elementos do mesmo tipo. Seus elementos possuem estrutura interna abstrata, sua complexidade é arbitraria e não afeta o seu funcionamento.
+## É uma sequencia de elementos do mesmo tipo. Seus elementos possuem estrutura interna abstrata, sua complexidade é arbitrária e não afeta o seu funcionamento.
 ![image](https://user-images.githubusercontent.com/60969430/136022940-5ccdc5e3-e3d6-48ba-aea2-b9f201e0b76c.png)
 
 # |Stack|
