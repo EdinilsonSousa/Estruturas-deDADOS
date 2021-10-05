@@ -1,4 +1,4 @@
-# Estruturas-deDADOS
+# Estruturas de Dados
 ## Esse repositório irá conter códigos e algumas explicações para ter um melhor entendimento.
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
