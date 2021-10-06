@@ -28,7 +28,9 @@
 ![image](https://user-images.githubusercontent.com/60969430/136030794-1172e01e-72e6-4761-9695-3b0086683f32.png)
 
 # |Queue|
-## 
+## É uma estrutura de dados que armazena os dados na ordem FIFO (First In First Out), em português Primeiro a Entrar Primeiro a Sair.
+![image](https://user-images.githubusercontent.com/60969430/136251932-469e35f1-e765-49a5-995b-1364c6cade12.png)
+
 
 <h4 align="center"> 
 	 🚀 Em construção...  🚧
