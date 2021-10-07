@@ -35,6 +35,9 @@
 ## É um modelo matemático que representa relaççoes entre objetos; Exemplo: "Qual a melhor rota da minha casa até um restaurante?"
 ![image](https://user-images.githubusercontent.com/60969430/136384001-c70ebafc-70b4-4789-92a0-ddb0e8904258.png)
 
+# |Hash table|
+## É uma maneira muito popular de organizar uma tabela de símbolos. Pode-se dizer que tabelas de dispersão são uma generalização do ideia de endereçamento direto. 
+
 
 <h4 align="center"> 
 	 🚀 Em construção...  🚧
