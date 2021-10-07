@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/60969430/136251932-469e35f1-e765-49a5-995b-1364c6cade12.png)
 
 # |Graph|
-## É um modelo matemático que representa relaççoes entre objetos; Exemplo: "Qual a melhor rota da minha casa até um restaurante?"
+## É um modelo matemático que representa relações entre objetos; Exemplo: "Qual a melhor rota da minha casa até um restaurante?"
 ![image](https://user-images.githubusercontent.com/60969430/136384001-c70ebafc-70b4-4789-92a0-ddb0e8904258.png)
 
 # |Hash table|
