@@ -37,6 +37,7 @@
 
 # |Hash table|
 ## É uma maneira muito popular de organizar uma tabela de símbolos. Pode-se dizer que tabelas de dispersão são uma generalização do ideia de endereçamento direto. 
+![image](https://user-images.githubusercontent.com/60969430/136387564-48b20657-b4a4-493b-a396-482737447321.png)
 
 
 <h4 align="center"> 
