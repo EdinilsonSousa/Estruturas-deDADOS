@@ -36,7 +36,7 @@
 ![image](https://user-images.githubusercontent.com/60969430/136384001-c70ebafc-70b4-4789-92a0-ddb0e8904258.png)
 
 # |Hash table|
-## É uma maneira muito popular de organizar uma tabela de símbolos. Pode-se dizer que tabelas de dispersão são uma generalização do ideia de endereçamento direto.
+## É uma maneira muito popular de organizar uma tabela de símbolos. Pode-se dizer que tabelas de dispersão são uma generalização da ideia de endereçamento direto.
 -> Alguns repositorios que possuem codigos feitos sobre (https://github.com/search?l=C&q=tabelahash&type=Repositories) - (https://github.com/search?l=C&q=hash+table&type=Repositories)
 ![image](https://user-images.githubusercontent.com/60969430/136387564-48b20657-b4a4-493b-a396-482737447321.png)
 
